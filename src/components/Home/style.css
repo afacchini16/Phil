@@ -1,0 +1,52 @@
+div.home-container {
+    height: 100%;
+    width: 100%;
+    margin:auto;
+    margin-top: 25px;
+    text-align: center;
+}
+
+div.quote-container {
+    color: #ddd;
+    font-size: 700%;
+    font-weight: 700;
+     position: relative;
+    top: 28vh;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   width: 90%;
+    line-height: 20px;
+    letter-spacing: 1.7px;
+    /*background-color: rgba(0, 0, 0, 0.4);*/
+}
+.quote-heading {
+    font-size: 18px;
+    margin-bottom: 2%;
+    color: #ddd;
+}
+
+.daily-quote {
+    font-size: 22px;
+    font-weight: normal;
+}
+.quote-philosopher-name {
+    font-size: 18px;
+    margin-top: 2%;
+    color: #ddd;
+}
+.quote-studied {
+    font-size:17px;
+    margin-top: 1%;
+    color: #ddd;
+}
+div.App {
+    height: 100vh;
+}
+.tagline{
+    color: #b8b8b8;
+    margin-top: 5%;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+
